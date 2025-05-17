@@ -2,6 +2,32 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Table of Contents
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Available Scripts](#available-scripts)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Introduction
+Provide a brief introduction to the project, its purpose, and any key features.
+
+## Installation
+Instructions on how to set up the project locally. Include prerequisites and installation steps.
+
+```bash
+# Clone the repository
+git clone https://github.com/ElbekKholmatov/faq.git
+
+# Navigate into the project directory
+cd yourproject
+
+# Install dependencies
+npm install
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
